@@ -9,3 +9,5 @@ To add more photos. Go into index.js and follow this format
 const photos = [
     "photo-here",
 ]
+
+You have any questions join my discord! https://discord.gg/RquDVTfDwu
